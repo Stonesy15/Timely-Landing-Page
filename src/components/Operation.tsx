@@ -11,21 +11,21 @@ const Operation = () => {
             number="1"
             title="Connect"
             description="The process starts when you place the order through our app, web or contact your local sales rep."
-            image="/src/Images/image 3.svg"
+            image="/src/Images/image3.svg"
           />
           
           <OperationStep
             number="2"
             title="Store"
             description="When your operation is up and running and the logistics flow is established, we manage your warehouse."
-            image="/src/Images/Rectangle 1314.svg"
+            image="/src/Images/Rectangle1314.svg"
           />
           
           <OperationStep
             number="3"
             title="Ship"
             description="We pick and pack all of your pending orders, ensuring they are delivered within 24-48hrs."
-            image="/src/Images/91fa59e6781adbdced82e349bb595d99 1.svg"
+            image="/src/Images/233.svg"
           />
         </div>
         

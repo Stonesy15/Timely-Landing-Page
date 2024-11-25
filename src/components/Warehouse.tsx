@@ -8,7 +8,7 @@ const Warehouse = () => {
         
         <div className="relative">
           <img
-            src="/src/Images/Group 7029.svg"
+            src="/src/Images/Group7029.svg"
             alt="World Map"
             className="w-full h-auto"
           />

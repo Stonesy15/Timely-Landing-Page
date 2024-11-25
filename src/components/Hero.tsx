@@ -62,7 +62,7 @@ const Hero = () => {
         
         <div className="relative">
           <img
-            src="/src/Images/delivery man.png"
+            src="/src/Images/deliveryman.png"
             alt="Delivery Man"
             className="w-full h-auto"
           />
