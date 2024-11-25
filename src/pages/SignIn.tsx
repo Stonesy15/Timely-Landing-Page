@@ -8,7 +8,7 @@ const SignIn = () => {
         <Link to="/">
           <img
             className="mx-auto h-12 w-auto"
-            src="/src/assets/Artboard17.png"
+            src="/Artboard17.png"
             alt="Timely Logo"
           />
         </Link>
