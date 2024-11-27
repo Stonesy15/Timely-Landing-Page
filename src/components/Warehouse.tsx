@@ -1,4 +1,5 @@
 import React from 'react';
+import map from '../public/Group7029.svg';
 
 const Warehouse = () => {
   return (
@@ -8,7 +9,7 @@ const Warehouse = () => {
         
         <div className="relative">
           <img
-            src="/Group7029.svg"
+            src= {map}
             alt="World Map"
             className="w-full h-auto"
           />
