@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import img1 from '../public/Artboard17.png';
 
 const SignUp = () => {
   return (
@@ -8,7 +9,7 @@ const SignUp = () => {
         <Link to="/">
           <img
             className="mx-auto h-12 w-auto"
-            src="/Artboard17.png"
+            src={img1}
             alt="Timely Logo"
           />
         </Link>

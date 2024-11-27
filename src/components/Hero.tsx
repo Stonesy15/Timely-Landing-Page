@@ -1,5 +1,6 @@
 import React from 'react';
 import { Apple, PlaySquare } from 'lucide-react';
+import img5 from "../public/deliveryman.png";
 
 const Hero = () => {
   return (
@@ -62,7 +63,7 @@ const Hero = () => {
         
         <div className="relative">
           <img
-            src="/deliveryman.png"
+            src= {img5}
             alt="Delivery Man"
             className="w-full h-auto"
           />

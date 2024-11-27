@@ -1,4 +1,7 @@
 import React from 'react';
+import connect from '../public/image3.svg';
+import store from '../public/Rectangle1314.svg';
+import ship from '../public/233.svg';
 
 const Operation = () => {
   return (
@@ -11,21 +14,21 @@ const Operation = () => {
             number="1"
             title="Connect"
             description="The process starts when you place the order through our app, web or contact your local sales rep."
-            image="/image3.svg"
+            image={connect}
           />
           
           <OperationStep
             number="2"
             title="Store"
             description="When your operation is up and running and the logistics flow is established, we manage your warehouse."
-            image="/Rectangle1314.svg"
+            image= {store}
           />
           
           <OperationStep
             number="3"
             title="Ship"
             description="We pick and pack all of your pending orders, ensuring they are delivered within 24-48hrs."
-            image="/233.svg"
+            image= {ship}
           />
         </div>
         

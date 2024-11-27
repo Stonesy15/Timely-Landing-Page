@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { ChevronDown, Menu, X } from 'lucide-react';
 import { Link, useLocation } from 'react-router-dom';
+import img4 from '../public/Artboard17.png';
+
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -24,7 +26,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <Link to="/" className="flex items-center">
-            <img src="/Artboard17.png" alt="Timely Logo" className="h-14 w-auto" />
+            <img src={img4} alt="Timely Logo" className="h-14 w-auto" />
           </Link>
           
           {/* Desktop Navigation */}
