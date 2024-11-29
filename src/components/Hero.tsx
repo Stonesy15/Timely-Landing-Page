@@ -1,6 +1,6 @@
 import React from 'react';
 import { Apple, PlaySquare } from 'lucide-react';
-import img5 from "../public/deliveryman.png";
+import img5 from "../public/deleiveryman.svg";
 
 const Hero = () => {
   return (

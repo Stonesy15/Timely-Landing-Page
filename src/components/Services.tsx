@@ -9,20 +9,20 @@ const Services = () => {
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
         <ServiceCard
           icon={<Box className="w-8 h-8 text-red-500" />}
-          title="Warehousing Services"
-          description="From a single pallet to a dedicated facility, we offer scalable warehousing and distribution solutions."
+          title="Service"
+          description="Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
         />
         
         <ServiceCard
           icon={<Globe2 className="w-8 h-8 text-red-500" />}
-          title="Global Freight"
-          description="Speed of service and reliability when moving cargo using our global network of transportation partners."
+          title="Service"
+          description="Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
         />
         
         <ServiceCard
           icon={<Package className="w-8 h-8 text-red-500" />}
-          title="Packaging Solutions"
-          description="Our packaging solutions are designed to meet customer needs while ensuring optimal space utilization."
+          title="Service"
+          description="Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
         />
       </div>
       

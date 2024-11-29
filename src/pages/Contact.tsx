@@ -94,14 +94,14 @@ const Contact = () => {
                     <Phone className="w-6 h-6 text-red-500 flex-shrink-0" />
                     <div>
                       <h3 className="font-semibold">Phone</h3>
-                      <p className="text-gray-600">+234 123 456 7890</p>
+                      <p className="text-gray-600">+234 8065819559</p>
                     </div>
                   </div>
                   <div className="flex items-start space-x-4">
                     <Mail className="w-6 h-6 text-red-500 flex-shrink-0" />
                     <div>
                       <h3 className="font-semibold">Email</h3>
-                      <p className="text-gray-600">contact@timelylogistics.com</p>
+                      <p className="text-gray-600">timelylogistic001@gmail.com</p>
                     </div>
                   </div>
                 </div>

@@ -1,5 +1,5 @@
 import React from 'react';
-import map from '../public/Group7029.svg';
+import map from '../public/map.svg';
 
 const Warehouse = () => {
   return (

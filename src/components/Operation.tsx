@@ -12,22 +12,22 @@ const Operation = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <OperationStep
             number="1"
-            title="Connect"
-            description="The process starts when you place the order through our app, web or contact your local sales rep."
+            title="Operation"
+            description="Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
             image={connect}
           />
           
           <OperationStep
             number="2"
-            title="Store"
-            description="When your operation is up and running and the logistics flow is established, we manage your warehouse."
+            title="Operation"
+            description="Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
             image= {store}
           />
           
           <OperationStep
             number="3"
-            title="Ship"
-            description="We pick and pack all of your pending orders, ensuring they are delivered within 24-48hrs."
+            title="Operation"
+            description="Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa."
             image= {ship}
           />
         </div>
